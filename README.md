@@ -30,6 +30,3 @@ A clean and simple To-Do List application built with HTML, CSS, and JavaScript. 
 
 ## Customization
 Feel free to modify colors, fonts, or layout in `styles.css` to match your preference.
-
-## License
-This project is licensed under the [MIT License](LICENSE). *(Create a LICENSE file if desired.)*
